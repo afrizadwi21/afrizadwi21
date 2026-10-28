@@ -75,7 +75,7 @@
     <!-- Floating Code Snippet on Left -->
     <g font-family="monospace" font-size="10" fill="#38bdf8" opacity="0.22">
       <text x="24" y="195">package main</text>
-      <text x="24" y="210">func main() { afriza.BuildFuture() }</text>
+      <text x="24" y="210">const dev = "Web Developer Student"</text>
       <animate attributeName="opacity" values="0.12;0.32;0.12" dur="4s" repeatCount="indefinite"/>
     </g>
 
@@ -106,19 +106,19 @@
       <!-- Pill 1 -->
       <rect x="0" y="0" width="170" height="30" rx="8" fill="#081c24" stroke="#00add8" stroke-width="1.2"/>
       <text x="85" y="19" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#38bdf8">
-        ⚡ GO / BACKEND DEV
+        💻 WEB DEVELOPER
       </text>
 
       <!-- Pill 2 -->
       <rect x="185" y="0" width="180" height="30" rx="8" fill="#091e1a" stroke="#10b981" stroke-width="1.2"/>
       <text x="275" y="19" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#34d399">
-        🚀 FULL-STACK ENGINEER
+        🚀 PPLG / RPL STUDENT
       </text>
 
       <!-- Pill 3 -->
       <rect x="380" y="0" width="170" height="30" rx="8" fill="#131129" stroke="#8b5cf6" stroke-width="1.2"/>
       <text x="465" y="19" text-anchor="middle" font-family="monospace" font-size="11.5" font-weight="bold" fill="#a78bfa">
-        🎨 MODERN WEB &amp; API
+        🌱 ALWAYS LEARNING
       </text>
     </g>
 

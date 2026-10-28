@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Web+Developer+%26+Go+Backend+Enthusiast;%F0%9F%9A%80+Architecting+Fast+APIs%2C+Scalable+Backends+%26+Modern+UIs;%F0%9F%94%A5+Passionate+About+Go%2C+TypeScript%2C+Next.js%2C+Laravel+%26+Docker;%F0%9F%8C%9F+Turning+Complex+Ideas+Into+Real+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello%2C+I'm+M.+Afriza+Dwi+I+%E2%80%94+Web+Developer+Student;%F0%9F%9A%80+Building+Useful+Products+with+Code%2C+Creativity+%26+Curiosity;%F0%9F%8C%B1+Currently+Learning+Next.js%2C+TypeScript%2C+Go+%26+Docker;%F0%9F%92%A1+Enjoying+Laravel%2C+React.js%2C+JavaScript+%26+PHP" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,41 +13,25 @@
     <img src="https://komarev.com/ghpvc/?username=afrizadwi21&label=PROFILE+VIEWS&color=00add8&style=for-the-badge" alt="Profile Views"/>
   </a>
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-10b981?style=for-the-badge&labelColor=090d16" alt="Location"/>
-  <img src="https://img.shields.io/badge/FOCUS-GO%20%26%20FULL--STACK-8b5cf6?style=for-the-badge&labelColor=090d16" alt="Focus"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20STUFF-f43f5e?style=for-the-badge&labelColor=090d16" alt="Status"/>
+  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-8b5cf6?style=for-the-badge&labelColor=090d16" alt="Focus"/>
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-f43f5e?style=for-the-badge&labelColor=090d16" alt="Status"/>
 </p>
 
 ---
 
-## ⚡ `whoami` — Developer Overview
+## ⚡ `whoami` — About Me
 
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-    Name       string
-    Role       string
-    School     string
-    Major      string
-    CoreStack  []string
-    Exploring  []string
-    Motto      string
-}
-
-func main() {
-    afriza := Developer{
-        Name:      "M. Afriza Dwi I",
-        Role:      "Full-Stack Web & Backend Developer",
-        School:    "SMK Negeri 4 Padalarang (2024 — Present)",
-        Major:     "Software & Game Development (PPLG / RPL)",
-        CoreStack: []string{"Go", "TypeScript", "JavaScript", "React", "Next.js", "Laravel", "PHP", "MySQL"},
-        Exploring: []string{"Go Microservices", "Docker & Cloud Native", "AI-Powered Web Apps"},
-        Motto:     "Build fast, write clean code, and never stop shipping.",
-    }
-    fmt.Printf("🚀 Ready to collaborate with %s!\n", afriza.Name)
-}
+```typescript
+const afriza = {
+  name: "M. Afriza Dwi I",
+  role: "Web Developer Student",
+  school: "SMK Negeri 4 Padalarang (2024 — Present)",
+  major: "Software & Game Development (PPLG / RPL)",
+  currentlyBuilding: "AI-powered apps & web projects",
+  currentMission: "Becoming a Full-Stack Developer",
+  currentlyLearning: ["Next.js", "TypeScript", "Go", "Docker"],
+  techIEnjoy: ["Laravel", "React.js", "JavaScript", "PHP"],
+};
 ```
 
 <div align="center">
@@ -63,16 +47,12 @@ func main() {
 <table>
     <tr>
         <td align="center" width="96">
-            <img src="assets/go-icon.svg" width="60" height="60" alt="Go"/><br>
-            <b>Go</b>
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/><br>
+            <b>JavaScript</b>
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript"/><br>
             <b>TypeScript</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/><br>
-            <b>JavaScript</b>
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React"/><br>
@@ -87,31 +67,19 @@ func main() {
             <b>Node.js</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/><br>
-            <b>Python</b>
+            <img src="assets/php-icon.svg" width="58" height="58" alt="PHP"/><br>
+            <b>PHP</b>
         </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API"/><br>
-            <b>REST API</b>
-        </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="assets/laravel-icon.svg" width="58" height="58" alt="Laravel"/><br>
             <b>Laravel</b>
         </td>
         <td align="center" width="96">
-            <img src="assets/php-icon.svg" width="58" height="58" alt="PHP"/><br>
-            <b>PHP</b>
+            <img src="assets/go-icon.svg" width="60" height="60" alt="Go"/><br>
+            <b>Go</b>
         </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL"/><br>
-            <b>MySQL</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker"/><br>
-            <b>Docker</b>
-        </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="assets/html2.gif" width="56" alt="HTML5"/><br>
             <b>HTML5</b>
@@ -119,6 +87,22 @@ func main() {
         <td align="center" width="96">
             <img src="assets/css-icon.svg" width="58" height="58" alt="CSS3"/><br>
             <b>CSS3</b>
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL"/><br>
+            <b>MySQL</b>
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/><br>
+            <b>Python</b>
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API"/><br>
+            <b>REST API</b>
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker"/><br>
+            <b>Docker</b>
         </td>
         <td align="center" width="96">
             <img src="assets/figma2.gif" width="52" alt="Figma"/><br>

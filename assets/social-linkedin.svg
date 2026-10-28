@@ -1,19 +1,31 @@
 <svg width="205" height="74" viewBox="0 0 205 74" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @keyframes glowPulse { 0%, 100% { stroke-opacity: 0.4; } 50% { stroke-opacity: 1; } }
+      @keyframes glowPulse { 0%, 100% { stroke-opacity: 0.45; } 50% { stroke-opacity: 1; } }
       @keyframes badgeFloat { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-2.5px); } }
       .card-bg { fill: #090e1a; stroke: #0ea5e9; stroke-width: 1.5; rx: 12px; animation: glowPulse 3s infinite ease-in-out; }
-      .icon-box { fill: #0ea5e9; fill-opacity: 0.16; stroke: #0ea5e9; stroke-width: 1.2; rx: 10px; animation: badgeFloat 2.4s infinite ease-in-out; }
-      .icon-txt { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 900; fill: #0ea5e9; animation: badgeFloat 2.4s infinite ease-in-out; }
+      .icon-wrap { animation: badgeFloat 2.4s infinite ease-in-out; }
       .plat { font-family: monospace; font-size: 10px; font-weight: bold; fill: #0ea5e9; letter-spacing: 1px; }
       .hand { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; fill: #ffffff; }
-      .sub { font-family: monospace; font-size: 9.5px; fill: #64748b; }
+      .sub { font-family: monospace; font-size: 9.5px; fill: #94a3b8; }
     </style>
+    <linearGradient id="igGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f09433"/>
+      <stop offset="25%" stop-color="#e6683c"/>
+      <stop offset="50%" stop-color="#dc2743"/>
+      <stop offset="75%" stop-color="#cc2366"/>
+      <stop offset="100%" stop-color="#bc1888"/>
+    </linearGradient>
   </defs>
   <rect class="card-bg" x="2" y="2" width="201" height="70" rx="12"/>
-  <rect class="icon-box" x="14" y="15" width="44" height="44" rx="10"/>
-  <text class="icon-txt" x="36" y="43" text-anchor="middle">in</text>
+  <g class="icon-wrap">
+    
+  <rect x="14" y="15" width="44" height="44" rx="11" fill="#0a66c2"/>
+  <circle cx="26.5" cy="27.5" r="2.6" fill="#ffffff"/>
+  <rect x="24.2" y="32.5" width="4.6" height="15" rx="1" fill="#ffffff"/>
+  <path d="M33 32.5 H37.4 V34.6 C38.3 33.1 40.1 32.1 42.4 32.1 C46.4 32.1 48 34.6 48 38.8 V47.5 H43.4 V39.7 C43.4 37.4 42.6 36.1 40.7 36.1 C38.7 36.1 37.6 37.5 37.6 39.7 V47.5 H33 Z" fill="#ffffff"/>
+
+  </g>
   <text class="plat" x="68" y="26">LINKEDIN</text>
   <text class="hand" x="68" y="44">Afriza Dwi</text>
   <text class="sub" x="68" y="59">Let's connect →</text>

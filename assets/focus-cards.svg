@@ -11,36 +11,33 @@
     </style>
   </defs>
 
-  <!-- Card 1: Go & Backend -->
   <g transform="translate(8, 8)">
     <rect class="card" width="272" height="128" stroke="#00add8"/>
     <circle class="dot" cx="24" cy="26" r="6" fill="#00add8"/>
-    <text class="tag" x="38" y="30" fill="#38bdf8">01 // BACKEND &amp; GOLANG</text>
-    <text class="title" x="20" y="58">High-Performance APIs</text>
-    <text class="desc" x="20" y="80">Building fast RESTful services, auth</text>
-    <text class="desc" x="20" y="98">systems &amp; microservices with Go,</text>
-    <text class="desc" x="20" y="116">Laravel, Python, and MySQL.</text>
+    <text class="tag" x="38" y="30" fill="#38bdf8">01 // FRONTEND DEVELOPMENT</text>
+    <text class="title" x="20" y="58">Interactive Web Interfaces</text>
+    <text class="desc" x="20" y="80">Building clean, responsive, and</text>
+    <text class="desc" x="20" y="98">user-friendly web apps with React,</text>
+    <text class="desc" x="20" y="116">Next.js, JavaScript &amp; TypeScript.</text>
   </g>
 
-  <!-- Card 2: Full-Stack Web -->
   <g transform="translate(294, 8)">
     <rect class="card" width="272" height="128" stroke="#10b981"/>
     <circle class="dot" cx="24" cy="26" r="6" fill="#10b981"/>
-    <text class="tag" x="38" y="30" fill="#34d399">02 // FULL-STACK WEB</text>
-    <text class="title" x="20" y="58">Modern Web Applications</text>
-    <text class="desc" x="20" y="80">Crafting responsive, interactive UIs</text>
-    <text class="desc" x="20" y="98">using React, Next.js, TypeScript,</text>
-    <text class="desc" x="20" y="116">Node.js &amp; clean architecture.</text>
+    <text class="tag" x="38" y="30" fill="#34d399">02 // BACKEND &amp; API</text>
+    <text class="title" x="20" y="58">Web Systems &amp; Databases</text>
+    <text class="desc" x="20" y="80">Developing web backends and REST</text>
+    <text class="desc" x="20" y="98">APIs using Laravel, PHP, Node.js,</text>
+    <text class="desc" x="20" y="116">and MySQL databases.</text>
   </g>
 
-  <!-- Card 3: DevOps & Product -->
   <g transform="translate(580, 8)">
     <rect class="card" width="272" height="128" stroke="#8b5cf6"/>
     <circle class="dot" cx="24" cy="26" r="6" fill="#8b5cf6"/>
-    <text class="tag" x="38" y="30" fill="#a78bfa">03 // DEVOPS &amp; PRODUCT</text>
-    <text class="title" x="20" y="58">Scalable Deployment</text>
-    <text class="desc" x="20" y="80">Containerizing workloads with Docker,</text>
-    <text class="desc" x="20" y="98">OpenAPI/Scalar docs, Git workflows</text>
-    <text class="desc" x="20" y="116">&amp; UI/UX prototyping in Figma.</text>
+    <text class="tag" x="38" y="30" fill="#a78bfa">03 // CURRENTLY LEARNING</text>
+    <text class="title" x="20" y="58">Growing Every Day</text>
+    <text class="desc" x="20" y="80">Exploring Go (Golang), Next.js,</text>
+    <text class="desc" x="20" y="98">TypeScript, Docker, and modern</text>
+    <text class="desc" x="20" y="116">software development workflows.</text>
   </g>
 </svg>
