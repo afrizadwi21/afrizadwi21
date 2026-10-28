@@ -131,7 +131,7 @@ const afriza = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrizadwi21&bg_color=080d1a&color=38bdf8&line=10b981&point=f43f5e&area=true&hide_border=false&border_color=1e293b" width="98%" alt="Contribution Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrizadwi21&theme=radical" width="98%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
