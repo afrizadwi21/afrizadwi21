@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="M. Afriza Dwi I — Hero Banner"/>
+  <img src="assets/hero-banner-v2.svg" width="100%" alt="M. Afriza Dwi I — Hero Banner"/>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello%2C+I'm+M.+Afriza+Dwi+I+%E2%80%94+Web+Developer+Student;%F0%9F%9A%80+Building+Useful+Products+with+Code%2C+Creativity+%26+Curiosity;%F0%9F%8C%B1+Currently+Learning+Next.js%2C+TypeScript%2C+Go+%26+Docker;%F0%9F%92%A1+Enjoying+Laravel%2C+React.js%2C+JavaScript+%26+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello%2C+I'm+M.+Afriza+Dwi+I+%E2%80%94+Web+Developer+Student;%F0%9F%9A%80+Building+Useful+Products+with+Code%2C+Creativity+%26+Curiosity;%F0%9F%8C%B1+Currently+Learning+Next.js%2C+TypeScript%2C+Go+%26+Docker;%F0%9F%92%A1+Enjoying+Laravel%2C+React.js%2C+JavaScript+%26+PHP" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/afrizadwi21">
-    <img src="https://komarev.com/ghpvc/?username=afrizadwi21&label=PROFILE+VIEWS&color=00add8&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://img.shields.io/badge/SCHOOL-SMKN%204%20PADALARANG-f59e0b?style=for-the-badge&labelColor=090d16" alt="School"/>
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-10b981?style=for-the-badge&labelColor=090d16" alt="Location"/>
   <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-8b5cf6?style=for-the-badge&labelColor=090d16" alt="Focus"/>
   <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-f43f5e?style=for-the-badge&labelColor=090d16" alt="Status"/>
@@ -35,7 +33,7 @@ const afriza = {
 ```
 
 <div align="center">
-  <img src="assets/focus-cards.svg" width="100%" alt="Core Focus Areas"/>
+  <img src="assets/focus-cards-v2.svg" width="100%" alt="Core Focus Areas"/>
 </div>
 
 ---
@@ -140,19 +138,19 @@ const afriza = {
 
 <div align="center">
   <a href="mailto:afriza.dwi21@gmail.com">
-    <img src="assets/social-email.svg" alt="Email afriza.dwi21@gmail.com"/>
+    <img src="assets/social-email-v2.svg" alt="Email afriza.dwi21@gmail.com"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/dw_afrizaaa" target="_blank">
-    <img src="assets/social-instagram.svg" alt="Instagram @dw_afrizaaa"/>
+    <img src="assets/social-ig-v2.svg" alt="Instagram @dw_afrizaaa"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/afrizadwi" target="_blank">
-    <img src="assets/social-linkedin.svg" alt="LinkedIn Afriza Dwi"/>
+    <img src="assets/social-linkedin-v2.svg" alt="LinkedIn Afriza Dwi"/>
   </a>
   &nbsp;
   <a href="https://github.com/afrizadwi21" target="_blank">
-    <img src="assets/social-github.svg" alt="GitHub @afrizadwi21"/>
+    <img src="assets/social-github-v2.svg" alt="GitHub @afrizadwi21"/>
   </a>
 </div>
 
