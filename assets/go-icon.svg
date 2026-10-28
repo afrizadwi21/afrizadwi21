@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="65" height="65">
+  <defs>
+    <style>
+      @keyframes wave-ani {
+        0% { x: 0px; }
+        100% { x: -100px; }
+      }
+      @keyframes fill-ani {
+        0%, 20% { y: 72px; }
+        60%, 100% { y: 18px; }
+      }
+      @keyframes float-go {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+      @keyframes pulse-ring {
+        0%, 100% { stroke-opacity: 0.35; transform: scale(0.96); }
+        50% { stroke-opacity: 0.95; transform: scale(1.03); }
+      }
+      .go-box {
+        fill: #0d1117;
+        stroke: #00ADD8;
+        stroke-width: 2.5;
+        rx: 14px;
+      }
+      .go-ring {
+        transform-origin: 50px 50px;
+        animation: pulse-ring 2.6s ease-in-out infinite;
+      }
+      .wave-box {
+        animation: wave-ani 4s infinite linear, fill-ani 4s infinite ease-in-out alternate;
+      }
+      .go-label {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        font-style: italic;
+        fill: #ffffff;
+        transform-origin: 50px 55px;
+        animation: float-go 2.2s ease-in-out infinite;
+      }
+      .speed-line {
+        stroke: #00ADD8;
+        stroke-width: 2.2;
+        stroke-linecap: round;
+        animation: float-go 2.2s ease-in-out infinite;
+      }
+    </style>
+    <pattern id="go-wave" width="0.1" height="1">
+      <path fill="#00ADD8" fill-opacity="0.88" d="M 0 10 C 3 12, 5 15, 14 10 C 17 9, 20 5, 30 10 L 30 80 L 0 80 z"/>
+    </pattern>
+    <mask id="go-mask">
+      <rect x="20" y="20" width="60" height="60" rx="12" fill="white"/>
+    </mask>
+  </defs>
+  <rect class="go-box go-ring" x="20" y="20" width="60" height="60" rx="12"/>
+  <rect class="wave-box" mask="url(#go-mask)" fill="url(#go-wave)" x="0" y="72" width="300" height="100"/>
+  <line class="speed-line" x1="25" y1="43" x2="33" y2="43"/>
+  <line class="speed-line" x1="23" y1="50" x2="31" y2="50"/>
+  <line class="speed-line" x1="26" y1="57" x2="33" y2="57"/>
+  <text class="go-label" x="54" y="60" text-anchor="middle">GO</text>
+</svg>
