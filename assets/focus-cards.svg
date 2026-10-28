@@ -1,0 +1,46 @@
+<svg width="860" height="145" viewBox="0 0 860 145" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes borderPulse { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 0.95; } }
+      @keyframes floatDot { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-4px); } }
+      .card { fill: #080d1a; stroke-width: 1.4; rx: 12px; animation: borderPulse 3.5s infinite ease-in-out; }
+      .title { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; fill: #f8fafc; }
+      .tag { font-family: monospace; font-size: 10px; font-weight: bold; }
+      .desc { font-family: Arial, Helvetica, sans-serif; font-size: 11.5px; fill: #94a3b8; }
+      .dot { animation: floatDot 2.5s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Card 1: Go & Backend -->
+  <g transform="translate(8, 8)">
+    <rect class="card" width="272" height="128" stroke="#00add8"/>
+    <circle class="dot" cx="24" cy="26" r="6" fill="#00add8"/>
+    <text class="tag" x="38" y="30" fill="#38bdf8">01 // BACKEND &amp; GOLANG</text>
+    <text class="title" x="20" y="58">High-Performance APIs</text>
+    <text class="desc" x="20" y="80">Building fast RESTful services, auth</text>
+    <text class="desc" x="20" y="98">systems &amp; microservices with Go,</text>
+    <text class="desc" x="20" y="116">Laravel, Python, and MySQL.</text>
+  </g>
+
+  <!-- Card 2: Full-Stack Web -->
+  <g transform="translate(294, 8)">
+    <rect class="card" width="272" height="128" stroke="#10b981"/>
+    <circle class="dot" cx="24" cy="26" r="6" fill="#10b981"/>
+    <text class="tag" x="38" y="30" fill="#34d399">02 // FULL-STACK WEB</text>
+    <text class="title" x="20" y="58">Modern Web Applications</text>
+    <text class="desc" x="20" y="80">Crafting responsive, interactive UIs</text>
+    <text class="desc" x="20" y="98">using React, Next.js, TypeScript,</text>
+    <text class="desc" x="20" y="116">Node.js &amp; clean architecture.</text>
+  </g>
+
+  <!-- Card 3: DevOps & Product -->
+  <g transform="translate(580, 8)">
+    <rect class="card" width="272" height="128" stroke="#8b5cf6"/>
+    <circle class="dot" cx="24" cy="26" r="6" fill="#8b5cf6"/>
+    <text class="tag" x="38" y="30" fill="#a78bfa">03 // DEVOPS &amp; PRODUCT</text>
+    <text class="title" x="20" y="58">Scalable Deployment</text>
+    <text class="desc" x="20" y="80">Containerizing workloads with Docker,</text>
+    <text class="desc" x="20" y="98">OpenAPI/Scalar docs, Git workflows</text>
+    <text class="desc" x="20" y="116">&amp; UI/UX prototyping in Figma.</text>
+  </g>
+</svg>
