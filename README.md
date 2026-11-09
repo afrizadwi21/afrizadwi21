@@ -25,7 +25,7 @@ const afriza = {
   role: "Web Developer Student",
   school: "SMK Negeri 4 Padalarang (2024 — Present)",
   major: "Software & Game Development (PPLG / RPL)",
-  currentlyBuilding: "AI-powered apps & web projects",
+  currentlyBuilding: "DistribuCore (B2B Distribution Management System) & Web Apps",
   currentMission: "Becoming a Full-Stack Developer",
   currentlyLearning: ["Next.js", "TypeScript", "Go", "Docker"],
   techIEnjoy: ["Laravel", "React.js", "JavaScript", "PHP"],
@@ -45,15 +45,15 @@ const afriza = {
 <table>
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/><br>
+            <img src="assets/javascript-icon.svg" width="60" height="60" alt="JavaScript"/><br>
             <b>JavaScript</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript"/><br>
+            <img src="assets/typescript-icon.svg" width="60" height="60" alt="TypeScript"/><br>
             <b>TypeScript</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React"/><br>
+            <img src="assets/react-icon.svg" width="60" height="60" alt="React"/><br>
             <b>React</b>
         </td>
         <td align="center" width="96">
@@ -87,19 +87,19 @@ const afriza = {
             <b>CSS3</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL"/><br>
+            <img src="assets/mysql-icon.svg" width="58" height="58" alt="MySQL"/><br>
             <b>MySQL</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/><br>
+            <img src="assets/python-icon.svg" width="60" height="60" alt="Python"/><br>
             <b>Python</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API"/><br>
+            <img src="assets/restapi-icon.svg" width="60" height="60" alt="REST API"/><br>
             <b>REST API</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker"/><br>
+            <img src="assets/docker-icon.svg" width="60" height="60" alt="Docker"/><br>
             <b>Docker</b>
         </td>
         <td align="center" width="96">
@@ -107,7 +107,7 @@ const afriza = {
             <b>Figma</b>
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" alt="GitHub"/><br>
+            <img src="assets/github-icon.svg" width="58" height="58" alt="GitHub"/><br>
             <b>GitHub</b>
         </td>
     </tr>
