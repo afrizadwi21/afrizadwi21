@@ -40,88 +40,24 @@ const afriza = {
 
 ## 🛠️ Animated Tech Arsenal & Hard Skills
 
-<div align="center">
-
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="assets/javascript-icon.svg" width="60" height="60" alt="JavaScript"/><br>
-            <b>JavaScript</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/typescript-icon.svg" width="60" height="60" alt="TypeScript"/><br>
-            <b>TypeScript</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/react-icon.svg" width="60" height="60" alt="React"/><br>
-            <b>React</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/nextjs-icon.svg" width="58" height="58" alt="Next.js"/><br>
-            <b>Next.js</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/nodejs-icon.svg" width="58" height="58" alt="Node.js"/><br>
-            <b>Node.js</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/php-icon.svg" width="58" height="58" alt="PHP"/><br>
-            <b>PHP</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/laravel-icon.svg" width="58" height="58" alt="Laravel"/><br>
-            <b>Laravel</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/go-icon.svg" width="60" height="60" alt="Go"/><br>
-            <b>Go</b>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="assets/html2.gif" width="56" alt="HTML5"/><br>
-            <b>HTML5</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/css-icon.svg" width="58" height="58" alt="CSS3"/><br>
-            <b>CSS3</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/mysql-icon.svg" width="58" height="58" alt="MySQL"/><br>
-            <b>MySQL</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/python-icon.svg" width="60" height="60" alt="Python"/><br>
-            <b>Python</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/restapi-icon.svg" width="60" height="60" alt="REST API"/><br>
-            <b>REST API</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/docker-icon.svg" width="60" height="60" alt="Docker"/><br>
-            <b>Docker</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/figma2.gif" width="52" alt="Figma"/><br>
-            <b>Figma</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/github-icon.svg" width="58" height="58" alt="GitHub"/><br>
-            <b>GitHub</b>
-        </td>
-    </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,go&theme=dark" alt="Frontend & Core Tech" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postman,docker,figma,github&theme=dark" alt="Backend & Tools" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Telemetry & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=afrizadwi21&show_icons=true&theme=radical&bg_color=080d1a&title_color=00f2fe&icon_color=10b981&text_color=e2e8f0&border_color=1e293b" height="165px" alt="Afriza GitHub Stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=afrizadwi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&bg_color=080d1a&title_color=00f2fe&text_color=e2e8f0&border_color=1e293b" height="165px" alt="Afriza Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=afrizadwi21&show_icons=true&theme=radical&bg_color=080d1a&title_color=00f2fe&icon_color=10b981&text_color=e2e8f0&border_color=1e293b" height="165px" alt="Afriza GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=afrizadwi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&bg_color=080d1a&title_color=00f2fe&text_color=e2e8f0&border_color=1e293b" height="165px" alt="Afriza Top Languages"/>
 </div>
 
 <div align="center">
