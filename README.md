@@ -40,16 +40,10 @@ const afriza = {
 
 ## 🛠️ Animated Tech Arsenal & Hard Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,go&theme=dark" alt="Frontend & Core Tech" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postman,docker,figma,github&theme=dark" alt="Backend & Tools" />
-  </a>
-</p>
+<div align="center">
+  <img src="assets/tech-stack-animated.svg" width="100%" alt="Animated Tech Arsenal & Hard Skills"/>
+</div>
+
 
 ---
 
