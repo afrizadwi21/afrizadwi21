@@ -18,183 +18,215 @@
 
   <!-- BARIS 1 (Frontend & Core Languages) -->
   <!-- 1. JavaScript -->
-  <g class="anim-f1" transform="translate(15, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#f7df1e"/>
-    <g transform="translate(25, 15)">
-      <rect width="40" height="40" rx="8" fill="#f7df1e"/>
-      <path d="M22 28 c2 3 5 5 9 5 c4 0 7 -2 7 -6 c0 -5 -3 -6 -8 -8 c-7 -3 -12 -6 -12 -12 c0 -6 5 -10 12 -10 c5 0 9 2 11 6 l-4 3 c-2 -3 -4 -4 -7 -4 c-4 0 -6 2 -6 5 c0 4 3 5 8 7 c8 3 13 6 13 13 c0 7 -5 11 -13 11 c-6 0 -11 -3 -13 -7 z" fill="#000000"/>
-      <path d="M7 12 l6 0 l0 22 c0 4 -2 6 -6 6 c-2 0 -4 -1 -5 -2 l2 -4 c1 1 2 1 3 1 c1 0 2 -1 2 -3 l0 -20 z" fill="#000000"/>
+  <g transform="translate(15, 10)">
+    <g class="anim-f1">
+      <rect class="card-box" width="90" height="95" stroke="#f7df1e"/>
+      <g transform="translate(25, 15)">
+        <rect width="40" height="40" rx="8" fill="#f7df1e"/>
+        <path d="M22 28 c2 3 5 5 9 5 c4 0 7 -2 7 -6 c0 -5 -3 -6 -8 -8 c-7 -3 -12 -6 -12 -12 c0 -6 5 -10 12 -10 c5 0 9 2 11 6 l-4 3 c-2 -3 -4 -4 -7 -4 c-4 0 -6 2 -6 5 c0 4 3 5 8 7 c8 3 13 6 13 13 c0 7 -5 11 -13 11 c-6 0 -11 -3 -13 -7 z" fill="#000000"/>
+        <path d="M7 12 l6 0 l0 22 c0 4 -2 6 -6 6 c-2 0 -4 -1 -5 -2 l2 -4 c1 1 2 1 3 1 c1 0 2 -1 2 -3 l0 -20 z" fill="#000000"/>
+      </g>
+      <text class="logo-label" x="45" y="80">JavaScript</text>
     </g>
-    <text class="logo-label" x="45" y="80">JavaScript</text>
   </g>
 
   <!-- 2. TypeScript -->
-  <g class="anim-f2" transform="translate(120, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#3178c6"/>
-    <g transform="translate(25, 15)">
-      <rect width="40" height="40" rx="8" fill="#3178c6"/>
-      <path d="M5 13 l18 0 l0 5 l-6 0 l0 17 l-6 0 l0 -17 l-6 0 z" fill="#ffffff"/>
-      <path d="M24 30 c2 2 4 3 7 3 c3 0 5 -1 5 -4 c0 -3 -2 -4 -6 -6 c-5 -2 -9 -5 -9 -9 c0 -5 4 -8 9 -8 c4 0 7 1 9 4 l-3 3 c-2 -2 -3 -3 -6 -3 c-3 0 -5 1 -5 3 c0 3 2 4 6 5 c6 2 9 5 9 10 c0 5 -4 9 -10 9 c-4 0 -8 -2 -10 -5 z" fill="#ffffff"/>
+  <g transform="translate(120, 10)">
+    <g class="anim-f2">
+      <rect class="card-box" width="90" height="95" stroke="#3178c6"/>
+      <g transform="translate(25, 15)">
+        <rect width="40" height="40" rx="8" fill="#3178c6"/>
+        <path d="M5 13 l18 0 l0 5 l-6 0 l0 17 l-6 0 l0 -17 l-6 0 z" fill="#ffffff"/>
+        <path d="M24 30 c2 2 4 3 7 3 c3 0 5 -1 5 -4 c0 -3 -2 -4 -6 -6 c-5 -2 -9 -5 -9 -9 c0 -5 4 -8 9 -8 c4 0 7 1 9 4 l-3 3 c-2 -2 -3 -3 -6 -3 c-3 0 -5 1 -5 3 c0 3 2 4 6 5 c6 2 9 5 9 10 c0 5 -4 9 -10 9 c-4 0 -8 -2 -10 -5 z" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">TypeScript</text>
     </g>
-    <text class="logo-label" x="45" y="80">TypeScript</text>
   </g>
 
   <!-- 3. React (Spinning Atom!) -->
-  <g class="anim-f3" transform="translate(225, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#00f2fe"/>
-    <g transform="translate(5, 5)">
-      <circle cx="40" cy="35" r="4.5" fill="#00f2fe"/>
-      <g class="spin-atom">
-        <ellipse cx="40" cy="40" rx="20" ry="7.5" fill="none" stroke="#00f2fe" stroke-width="2"/>
-        <ellipse cx="40" cy="40" rx="20" ry="7.5" fill="none" stroke="#00f2fe" stroke-width="2" transform="rotate(60 40 40)"/>
-        <ellipse cx="40" cy="40" rx="20" ry="7.5" fill="none" stroke="#00f2fe" stroke-width="2" transform="rotate(120 40 40)"/>
+  <g transform="translate(225, 10)">
+    <g class="anim-f3">
+      <rect class="card-box" width="90" height="95" stroke="#00f2fe"/>
+      <g transform="translate(5, 5)">
+        <circle cx="40" cy="35" r="4.5" fill="#00f2fe"/>
+        <g class="spin-atom">
+          <ellipse cx="40" cy="40" rx="20" ry="7.5" fill="none" stroke="#00f2fe" stroke-width="2"/>
+          <ellipse cx="40" cy="40" rx="20" ry="7.5" fill="none" stroke="#00f2fe" stroke-width="2" transform="rotate(60 40 40)"/>
+          <ellipse cx="40" cy="40" rx="20" ry="7.5" fill="none" stroke="#00f2fe" stroke-width="2" transform="rotate(120 40 40)"/>
+        </g>
       </g>
+      <text class="logo-label" x="45" y="80">React.js</text>
     </g>
-    <text class="logo-label" x="45" y="80">React.js</text>
   </g>
 
   <!-- 4. Next.js -->
-  <g class="anim-f1" transform="translate(330, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#ffffff"/>
-    <g transform="translate(25, 15)">
-      <circle cx="20" cy="20" r="20" fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
-      <path d="M14 11 l0 18 l4 0 l0 -11 l11 15 l3 0 l-14 -19 l-4 -3 z" fill="#ffffff"/>
-      <rect x="25" y="11" width="3.5" height="11" fill="#ffffff"/>
+  <g transform="translate(330, 10)">
+    <g class="anim-f1">
+      <rect class="card-box" width="90" height="95" stroke="#ffffff"/>
+      <g transform="translate(25, 15)">
+        <circle cx="20" cy="20" r="20" fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
+        <path d="M14 11 l0 18 l4 0 l0 -11 l11 15 l3 0 l-14 -19 l-4 -3 z" fill="#ffffff"/>
+        <rect x="25" y="11" width="3.5" height="11" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">Next.js</text>
     </g>
-    <text class="logo-label" x="45" y="80">Next.js</text>
   </g>
 
   <!-- 5. Node.js -->
-  <g class="anim-f2" transform="translate(435, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#10b981"/>
-    <g transform="translate(25, 15)">
-      <polygon points="20,2 38,12 38,32 20,42 2,32 2,12" fill="#539e43"/>
-      <path d="M20 12 c-4 0 -7 2 -7 6 c0 5 4 6 8 7 c3 1 5 2 5 4 c0 2 -2 3 -4 3 c-3 0 -5 -1 -6 -3 l-3 3 c2 3 5 4 9 4 c5 0 8 -2 8 -7 c0 -5 -4 -6 -8 -7 c-3 -1 -5 -2 -5 -4 c0 -2 2 -3 4 -3 c2 0 4 1 5 2 l3 -3 c-2 -2 -4 -3 -7 -3 z" fill="#ffffff"/>
+  <g transform="translate(435, 10)">
+    <g class="anim-f2">
+      <rect class="card-box" width="90" height="95" stroke="#10b981"/>
+      <g transform="translate(25, 15)">
+        <polygon points="20,2 38,12 38,32 20,42 2,32 2,12" fill="#539e43"/>
+        <path d="M20 12 c-4 0 -7 2 -7 6 c0 5 4 6 8 7 c3 1 5 2 5 4 c0 2 -2 3 -4 3 c-3 0 -5 -1 -6 -3 l-3 3 c2 3 5 4 9 4 c5 0 8 -2 8 -7 c0 -5 -4 -6 -8 -7 c-3 -1 -5 -2 -5 -4 c0 -2 2 -3 4 -3 c2 0 4 1 5 2 l3 -3 c-2 -2 -4 -3 -7 -3 z" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">Node.js</text>
     </g>
-    <text class="logo-label" x="45" y="80">Node.js</text>
   </g>
 
   <!-- 6. Go (Golang) -->
-  <g class="anim-f3" transform="translate(540, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#00add8"/>
-    <g transform="translate(20, 17)">
-      <rect width="50" height="36" rx="6" fill="#00add8"/>
-      <text x="25" y="26" font-family="Arial, sans-serif" font-weight="900" font-size="22" fill="#ffffff" text-anchor="middle" font-style="italic">GO</text>
+  <g transform="translate(540, 10)">
+    <g class="anim-f3">
+      <rect class="card-box" width="90" height="95" stroke="#00add8"/>
+      <g transform="translate(20, 17)">
+        <rect width="50" height="36" rx="6" fill="#00add8"/>
+        <text x="25" y="26" font-family="Arial, sans-serif" font-weight="900" font-size="22" fill="#ffffff" text-anchor="middle" font-style="italic">GO</text>
+      </g>
+      <text class="logo-label" x="45" y="80">Golang</text>
     </g>
-    <text class="logo-label" x="45" y="80">Golang</text>
   </g>
 
   <!-- 7. PHP -->
-  <g class="anim-f1" transform="translate(645, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#8b5cf6"/>
-    <g transform="translate(22, 18)">
-      <ellipse cx="23" cy="18" rx="23" ry="15" fill="#777bb4"/>
-      <text x="23" y="24" font-family="Arial, sans-serif" font-weight="900" font-size="14" fill="#ffffff" text-anchor="middle">php</text>
+  <g transform="translate(645, 10)">
+    <g class="anim-f1">
+      <rect class="card-box" width="90" height="95" stroke="#8b5cf6"/>
+      <g transform="translate(22, 18)">
+        <ellipse cx="23" cy="18" rx="23" ry="15" fill="#777bb4"/>
+        <text x="23" y="24" font-family="Arial, sans-serif" font-weight="900" font-size="14" fill="#ffffff" text-anchor="middle">php</text>
+      </g>
+      <text class="logo-label" x="45" y="80">PHP</text>
     </g>
-    <text class="logo-label" x="45" y="80">PHP</text>
   </g>
 
   <!-- 8. Laravel -->
-  <g class="anim-f2" transform="translate(750, 10)">
-    <rect class="card-box" width="90" height="95" stroke="#f43f5e"/>
-    <g transform="translate(25, 15)">
-      <rect width="40" height="40" rx="8" fill="#ff2d20"/>
-      <path d="M10 28 L18 12 L24 23 L28 17 L32 28 Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(750, 10)">
+    <g class="anim-f2">
+      <rect class="card-box" width="90" height="95" stroke="#f43f5e"/>
+      <g transform="translate(25, 15)">
+        <rect width="40" height="40" rx="8" fill="#ff2d20"/>
+        <path d="M10 28 L18 12 L24 23 L28 17 L32 28 Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <text class="logo-label" x="45" y="80">Laravel</text>
     </g>
-    <text class="logo-label" x="45" y="80">Laravel</text>
   </g>
 
   <!-- BARIS 2 (Web Standards, DB & DevOps) -->
   <!-- 9. HTML5 -->
-  <g class="anim-f2" transform="translate(15, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#e34f26"/>
-    <g transform="translate(25, 15)">
-      <polygon points="5,2 35,2 32,36 20,40 8,36" fill="#e34f26"/>
-      <polygon points="20,5 32,5 30,33 20,36" fill="#ef652a"/>
-      <path d="M12 11 l16 0 l-1 5 l-11 0 l1 5 l9 0 l-1 10 l-6 2 l-6 -2 l-1 -4 l4 0 l0 2 l3 1 l3 -1 l1 -4 l-8 0 z" fill="#ffffff"/>
+  <g transform="translate(15, 125)">
+    <g class="anim-f2">
+      <rect class="card-box" width="90" height="95" stroke="#e34f26"/>
+      <g transform="translate(25, 15)">
+        <polygon points="5,2 35,2 32,36 20,40 8,36" fill="#e34f26"/>
+        <polygon points="20,5 32,5 30,33 20,36" fill="#ef652a"/>
+        <path d="M12 11 l16 0 l-1 5 l-11 0 l1 5 l9 0 l-1 10 l-6 2 l-6 -2 l-1 -4 l4 0 l0 2 l3 1 l3 -1 l1 -4 l-8 0 z" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">HTML5</text>
     </g>
-    <text class="logo-label" x="45" y="80">HTML5</text>
   </g>
 
   <!-- 10. CSS3 -->
-  <g class="anim-f1" transform="translate(120, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#1572b6"/>
-    <g transform="translate(25, 15)">
-      <polygon points="5,2 35,2 32,36 20,40 8,36" fill="#1572b6"/>
-      <polygon points="20,5 32,5 30,33 20,36" fill="#33a9dc"/>
-      <path d="M12 11 l16 0 l-1 5 l-11 0 l1 5 l9 0 l-1 10 l-6 2 l-6 -2 l-1 -4 l4 0 l0 2 l3 1 l3 -1 l1 -4 l-8 0 z" fill="#ffffff"/>
+  <g transform="translate(120, 125)">
+    <g class="anim-f1">
+      <rect class="card-box" width="90" height="95" stroke="#1572b6"/>
+      <g transform="translate(25, 15)">
+        <polygon points="5,2 35,2 32,36 20,40 8,36" fill="#1572b6"/>
+        <polygon points="20,5 32,5 30,33 20,36" fill="#33a9dc"/>
+        <path d="M12 11 l16 0 l-1 5 l-11 0 l1 5 l9 0 l-1 10 l-6 2 l-6 -2 l-1 -4 l4 0 l0 2 l3 1 l3 -1 l1 -4 l-8 0 z" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">CSS3</text>
     </g>
-    <text class="logo-label" x="45" y="80">CSS3</text>
   </g>
 
   <!-- 11. Python -->
-  <g class="anim-f3" transform="translate(225, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#fbbf24"/>
-    <g transform="translate(25, 15)">
-      <rect width="40" height="40" rx="8" fill="#1e293b"/>
-      <path d="M20 7 C14 7 14 10 14 10 L14 13 L21 13 L21 14 L11 14 C11 14 7 14 7 20 C7 26 10 26 10 26 L12 26 L12 23 C12 20 15 20 15 20 L22 20 C24 20 25 18 25 16 L25 10 C25 10 25 7 20 7 Z" fill="#38bdf8"/>
-      <circle cx="17" cy="10" r="1.3" fill="#ffffff"/>
-      <path d="M20 33 C26 33 26 30 26 30 L26 27 L19 27 L19 26 L29 26 C29 26 33 26 33 20 C33 14 30 14 30 14 L28 14 L28 17 C28 20 25 20 25 20 L18 20 C16 20 15 22 15 24 L15 30 C15 30 15 33 20 33 Z" fill="#fde047"/>
-      <circle cx="23" cy="30" r="1.3" fill="#000000"/>
+  <g transform="translate(225, 125)">
+    <g class="anim-f3">
+      <rect class="card-box" width="90" height="95" stroke="#fbbf24"/>
+      <g transform="translate(25, 15)">
+        <rect width="40" height="40" rx="8" fill="#1e293b"/>
+        <path d="M20 7 C14 7 14 10 14 10 L14 13 L21 13 L21 14 L11 14 C11 14 7 14 7 20 C7 26 10 26 10 26 L12 26 L12 23 C12 20 15 20 15 20 L22 20 C24 20 25 18 25 16 L25 10 C25 10 25 7 20 7 Z" fill="#38bdf8"/>
+        <circle cx="17" cy="10" r="1.3" fill="#ffffff"/>
+        <path d="M20 33 C26 33 26 30 26 30 L26 27 L19 27 L19 26 L29 26 C29 26 33 26 33 20 C33 14 30 14 30 14 L28 14 L28 17 C28 20 25 20 25 20 L18 20 C16 20 15 22 15 24 L15 30 C15 30 15 33 20 33 Z" fill="#fde047"/>
+        <circle cx="23" cy="30" r="1.3" fill="#000000"/>
+      </g>
+      <text class="logo-label" x="45" y="80">Python</text>
     </g>
-    <text class="logo-label" x="45" y="80">Python</text>
   </g>
 
   <!-- 12. MySQL -->
-  <g class="anim-f2" transform="translate(330, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#00758f"/>
-    <g transform="translate(20, 17)">
-      <rect width="50" height="36" rx="6" fill="#00758f"/>
-      <text x="25" y="24" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#ffffff" text-anchor="middle">MySQL</text>
+  <g transform="translate(330, 125)">
+    <g class="anim-f2">
+      <rect class="card-box" width="90" height="95" stroke="#00758f"/>
+      <g transform="translate(20, 17)">
+        <rect width="50" height="36" rx="6" fill="#00758f"/>
+        <text x="25" y="24" font-family="Arial, sans-serif" font-weight="900" font-size="12" fill="#ffffff" text-anchor="middle">MySQL</text>
+      </g>
+      <text class="logo-label" x="45" y="80">MySQL</text>
     </g>
-    <text class="logo-label" x="45" y="80">MySQL</text>
   </g>
 
   <!-- 13. Docker -->
-  <g class="anim-f1" transform="translate(435, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#2496ed"/>
-    <g transform="translate(22, 17)">
-      <path d="M38 18 C37 16 34 16 33 17 C32 15 29 14 26 15 L26 12 L22 12 L22 15 L18 15 L18 12 L14 12 L14 15 L10 15 L10 12 L6 12 L6 15 C3 15 1 17 1 20 C1 26 6 31 16 31 C26 31 36 27 38 18 Z" fill="#2496ed"/>
-      <rect x="10" y="15" width="3" height="3" fill="#ffffff"/>
-      <rect x="14" y="15" width="3" height="3" fill="#ffffff"/>
-      <rect x="18" y="15" width="3" height="3" fill="#ffffff"/>
-      <rect x="22" y="15" width="3" height="3" fill="#ffffff"/>
-      <rect x="14" y="11" width="3" height="3" fill="#ffffff"/>
-      <rect x="18" y="11" width="3" height="3" fill="#ffffff"/>
+  <g transform="translate(435, 125)">
+    <g class="anim-f1">
+      <rect class="card-box" width="90" height="95" stroke="#2496ed"/>
+      <g transform="translate(22, 17)">
+        <path d="M38 18 C37 16 34 16 33 17 C32 15 29 14 26 15 L26 12 L22 12 L22 15 L18 15 L18 12 L14 12 L14 15 L10 15 L10 12 L6 12 L6 15 C3 15 1 17 1 20 C1 26 6 31 16 31 C26 31 36 27 38 18 Z" fill="#2496ed"/>
+        <rect x="10" y="15" width="3" height="3" fill="#ffffff"/>
+        <rect x="14" y="15" width="3" height="3" fill="#ffffff"/>
+        <rect x="18" y="15" width="3" height="3" fill="#ffffff"/>
+        <rect x="22" y="15" width="3" height="3" fill="#ffffff"/>
+        <rect x="14" y="11" width="3" height="3" fill="#ffffff"/>
+        <rect x="18" y="11" width="3" height="3" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">Docker</text>
     </g>
-    <text class="logo-label" x="45" y="80">Docker</text>
   </g>
 
   <!-- 14. Postman / REST API -->
-  <g class="anim-f3" transform="translate(540, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#ff6c37"/>
-    <g transform="translate(25, 15)">
-      <circle cx="20" cy="20" r="18" fill="#ff6c37"/>
-      <path d="M12 24 L28 14 L20 28 L18 22 Z" fill="#ffffff"/>
+  <g transform="translate(540, 125)">
+    <g class="anim-f3">
+      <rect class="card-box" width="90" height="95" stroke="#ff6c37"/>
+      <g transform="translate(25, 15)">
+        <circle cx="20" cy="20" r="18" fill="#ff6c37"/>
+        <path d="M12 24 L28 14 L20 28 L18 22 Z" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">REST API</text>
     </g>
-    <text class="logo-label" x="45" y="80">REST API</text>
   </g>
 
   <!-- 15. Figma -->
-  <g class="anim-f2" transform="translate(645, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#a855f7"/>
-    <g transform="translate(27, 15)">
-      <rect x="5" y="3" width="12" height="11" rx="6" fill="#f24e1e"/>
-      <rect x="17" y="3" width="12" height="11" rx="6" fill="#ff7262"/>
-      <rect x="5" y="14" width="12" height="11" rx="6" fill="#a259ff"/>
-      <circle cx="23" cy="19.5" r="5.5" fill="#1abcfe"/>
-      <rect x="5" y="25" width="12" height="11" rx="6" fill="#0acf83"/>
+  <g transform="translate(645, 125)">
+    <g class="anim-f2">
+      <rect class="card-box" width="90" height="95" stroke="#a855f7"/>
+      <g transform="translate(27, 15)">
+        <rect x="5" y="3" width="12" height="11" rx="6" fill="#f24e1e"/>
+        <rect x="17" y="3" width="12" height="11" rx="6" fill="#ff7262"/>
+        <rect x="5" y="14" width="12" height="11" rx="6" fill="#a259ff"/>
+        <circle cx="23" cy="19.5" r="5.5" fill="#1abcfe"/>
+        <rect x="5" y="25" width="12" height="11" rx="6" fill="#0acf83"/>
+      </g>
+      <text class="logo-label" x="45" y="80">Figma</text>
     </g>
-    <text class="logo-label" x="45" y="80">Figma</text>
   </g>
 
   <!-- 16. GitHub -->
-  <g class="anim-f1" transform="translate(750, 125)">
-    <rect class="card-box" width="90" height="95" stroke="#94a3b8"/>
-    <g transform="translate(25, 15)">
-      <circle cx="20" cy="20" r="19" fill="#181717" stroke="#ffffff" stroke-width="1.2"/>
-      <path d="M20 7 C12.8 7 7 12.8 7 20 C7 25.7 10.7 30.6 15.9 32.3 C16.5 32.4 16.7 32 16.7 31.7 L16.7 29.5 C13.1 30.3 12.3 27.8 12.3 27.8 C11.7 26.3 10.9 25.9 10.9 25.9 C9.7 25.1 11 25.1 11 25.1 C12.3 25.2 13 26.5 13 26.5 C14.1 28.5 16 27.9 16.7 27.6 C16.8 26.7 17.1 26.2 17.5 25.8 C14.6 25.5 11.6 24.4 11.6 19.4 C11.6 18 12.1 16.8 12.9 15.9 C12.8 15.6 12.3 14.2 13 12.5 C13 12.5 14.1 12.1 16.6 13.8 C17.6 13.5 18.8 13.4 20 13.4 C21.2 13.4 22.4 13.5 23.4 13.8 C25.9 12.1 27 12.5 27 12.5 C27.7 14.2 27.2 15.6 27.1 15.9 C27.9 16.8 28.4 18 28.4 19.4 C28.4 24.4 25.4 25.5 22.5 25.8 C23 26.2 23.4 27 23.4 28.2 L23.4 31.7 C23.4 32 23.6 32.4 24.2 32.3 C29.3 30.6 33 25.7 33 20 C33 12.8 27.2 7 20 7 Z" fill="#ffffff"/>
+  <g transform="translate(750, 125)">
+    <g class="anim-f1">
+      <rect class="card-box" width="90" height="95" stroke="#94a3b8"/>
+      <g transform="translate(25, 15)">
+        <circle cx="20" cy="20" r="19" fill="#181717" stroke="#ffffff" stroke-width="1.2"/>
+        <path d="M20 7 C12.8 7 7 12.8 7 20 C7 25.7 10.7 30.6 15.9 32.3 C16.5 32.4 16.7 32 16.7 31.7 L16.7 29.5 C13.1 30.3 12.3 27.8 12.3 27.8 C11.7 26.3 10.9 25.9 10.9 25.9 C9.7 25.1 11 25.1 11 25.1 C12.3 25.2 13 26.5 13 26.5 C14.1 28.5 16 27.9 16.7 27.6 C16.8 26.7 17.1 26.2 17.5 25.8 C14.6 25.5 11.6 24.4 11.6 19.4 C11.6 18 12.1 16.8 12.9 15.9 C12.8 15.6 12.3 14.2 13 12.5 C13 12.5 14.1 12.1 16.6 13.8 C17.6 13.5 18.8 13.4 20 13.4 C21.2 13.4 22.4 13.5 23.4 13.8 C25.9 12.1 27 12.5 27 12.5 C27.7 14.2 27.2 15.6 27.1 15.9 C27.9 16.8 28.4 18 28.4 19.4 C28.4 24.4 25.4 25.5 22.5 25.8 C23 26.2 23.4 27 23.4 28.2 L23.4 31.7 C23.4 32 23.6 32.4 24.2 32.3 C29.3 30.6 33 25.7 33 20 C33 12.8 27.2 7 20 7 Z" fill="#ffffff"/>
+      </g>
+      <text class="logo-label" x="45" y="80">GitHub</text>
     </g>
-    <text class="logo-label" x="45" y="80">GitHub</text>
   </g>
 </svg>
